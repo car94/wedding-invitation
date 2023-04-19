@@ -3,7 +3,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        "couples": "url('@/assets/images/CRV00423-1.jpg')",
+        "couples": "url('@/assets/images/CRV00423-1.JPG')",
         "texture": "url('@/assets/textures/paper.png')",
         "prewedding": "url('@/assets/prewedding.jpg')"
       },
