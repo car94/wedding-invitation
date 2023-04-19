@@ -1,6 +1,7 @@
 <template>
   <section class="w-full bg-slate-100">
     <section class="w-full px-0">
+      <HeaderSection title="Galeri" subtitle="" />
       <viewer :images="galleries">
         <div class="flex flex-wrap">
           <template
