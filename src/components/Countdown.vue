@@ -1,6 +1,6 @@
 <template>
   <div class="px-2 py-4">
-    <p class="mx-auto text-center text-sm text-gray-100 w-10/12 mb-2">Menuju acara resepsi kami</p>
+    <p class="mx-auto text-center text-sm text-gray-100 w-10/12 mb-2">Menuju acara akad nikah kami</p>
     <section class="flex justify-center gap-3 ">
       <template v-for="(value, name, index) in countdown" :key="index">
         <div 
