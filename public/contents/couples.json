@@ -1,0 +1,26 @@
+{
+	"couples": [
+		{
+			"name": "Auberta Fitriana",
+			"sosmed": [
+				{ "icon": "fab fa-instagram", "link": "http://fake.com" },
+				{ "icon": "fab fa-facebook", "link": "http://fake.com" },
+				{ "icon": "fab fa-twitter", "link": "http://fake.com" }
+			],
+			"parents": ["H. Kanafi", "Tarwini"],
+			"thumb": "/couples/couple-female.jpg",
+			"address": "Dusun Siyoto, Desa Siyotobagus"
+		},
+		{
+			"name": "Andrik Purniawan",
+			"sosmed": [
+				{ "icon": "fab fa-instagram", "link": "http://fake.com" },
+				{ "icon": "fab fa-facebook", "link": "http://fake.com" },
+				{ "icon": "fab fa-twitter", "link": "http://fake.com" }
+			],
+			"parents": ["Mulani", "Aminah"],
+			"thumb": "/couples/couple-male.jpg",
+			"address": "Dusun Krajan, Desa Talun Kulon"
+		}
+	]
+}
