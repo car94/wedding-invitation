@@ -13,12 +13,10 @@
     <source src="@/assets/audio/backsound.mp3" type="audio/mp3">
   </audio>
   <section class="fixed bottom-24 pl-2">
-   <!--
     <button class="button" @click="control">
       <i v-if="!isPlayed" class="fa-solid fa-volume-off"></i>
       <i v-else class="fa-solid fa-volume-high"></i>
     </button>
-    -->
     <!--
     <button @click="giftAction" class="button">
       <i class="fa-solid fa-gift"></i>
