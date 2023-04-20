@@ -7,6 +7,9 @@
     <OurGallery></OurGallery>
     <Envelope id="envelope"></Envelope>
     <GuestBook id="guest-book"></GuestBook>
+    <audio autoplay loop>
+      <source src="@/assets/audio/backsound.mp3" type="audio/mp3">
+    </audio>
   </section>
 </template>
 
