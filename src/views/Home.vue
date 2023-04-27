@@ -1,6 +1,6 @@
 <template>
   <section>
-  <Wellcome></Wellcome>
+    <Wellcome></Wellcome>
     <MainCover id="mainCover"></MainCover>
     <FirstSight></FirstSight>
     <GroomBride></GroomBride>
