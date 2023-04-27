@@ -41,7 +41,7 @@
               </button>
             </div>
             -->
-            <img src="@/assets/images/auberta-denah.jpg" alt="">
+            <img src="@/assets/images/denah.png" alt="">
           </section>
         </template>
       </Card>
