@@ -19,10 +19,12 @@
               <decoration class="w-2/12 mx-auto my-2 fill-amber-500"></decoration>
               <p class="text-amber-500">{{ timeline.location }}</p>
               <p class="text-gray-200">{{ timeline.address }}</p>
+              <!--
               <a class="btn" href="https://goo.gl/maps/PBzLcLN7WvpBF2n66" target="_blank">
                 <i class="fa-solid fa-map"></i>
                 Lihat Peta
               </a>
+              -->
               <decoration class="w-2/12 mx-auto my-2 fill-amber-500 rotate-180"></decoration>
             </section>
           </div>
