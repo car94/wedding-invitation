@@ -10,7 +10,7 @@
 
 <template>
   <audio ref="audioEl" autoplay loop preload="auto">
-    <source src="@/assets/audio/L-O-V-E.mp3" type="audio/mp3">
+    <source src="@/assets/audio/L-O-V-E-edit.mp3" type="audio/mp3">
     Audio tag not supported
   </audio>
   <section class="fixed bottom-24 pl-2">
