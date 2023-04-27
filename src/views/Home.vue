@@ -1,5 +1,6 @@
 <template>
   <section>
+  <Wellcome></Wellcome>
     <MainCover id="mainCover"></MainCover>
     <FirstSight></FirstSight>
     <GroomBride></GroomBride>
@@ -7,14 +8,11 @@
     <OurGallery></OurGallery>
     <Envelope id="envelope"></Envelope>
     <GuestBook id="guest-book"></GuestBook>
-    <audio autoplay loop>
-      <source src="@/assets/audio/backsound.mp3" type="audio/mp3">
-    </audio>
   </section>
 </template>
 
 <script setup>
-
+import Wellcome from '@/components/Wellcome.vue'
 import MainCover from '@/components/MainCover.vue'
 import FirstSight from '@/components/FirstSight.vue'
 import GroomBride from '@/components/GroomBride.vue'
